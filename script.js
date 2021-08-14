@@ -1,0 +1,3 @@
+// goal: when button clicked text boxes disapear and leave behind list items 
+// test #1: turn the css classes into variables and have them equal each other (a === b); test failed ; idea: figure out how to make the word variables into actual numbers so math works and use getdocumentbyclassname
+//test #2 (dad"s idea): put an id on the entire list and make list.hidden true when button pressed; test failed the entire list was gone ,not the goal 
